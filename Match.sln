@@ -3,14 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9E187DC-0C93-4C1B-AC05-806B17DDE0A4}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\..\NEV-ALIEN\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\14.0\EXTENSIONS\QENLPMTJ.KJU\description.html = ..\..\..\..\..\NEV-ALIEN\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\14.0\EXTENSIONS\QENLPMTJ.KJU\description.html
-	EndProjectSection
-EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Match100-MS_Template", "Match100-template\Match100-MS_Template.vbproj", "{75A38096-65FA-4CBD-BADF-972106319DF2}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Match110-CountWorking", "Match110-CountWorking\Match110-CountWorking.vbproj", "{FB591567-97BB-4EB5-B0CF-9A36B4976275}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{8C0E53DA-EF67-4EED-8102-05AF4B5B25B2}"
+	ProjectSection(SolutionItems) = preProject
+		images\clip_image001.png = images\clip_image001.png
+		images\clip_image002.png = images\clip_image002.png
+		images\clip_image003.png = images\clip_image003.png
+		images\SSC_SmallLogo-60x81-PNG.png = images\SSC_SmallLogo-60x81-PNG.png
+		images\ssc_smalllogo-60x81.ico = images\ssc_smalllogo-60x81.ico
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RootFiles", "RootFiles", "{14D1B3ED-4E81-4780-A570-70690E852DE5}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		index.html = index.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
